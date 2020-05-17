@@ -3,7 +3,7 @@
 <head lang='kr'>
     <meta charset='UTF-8'>
     <meta http-equiv='X-UA-Compatible' content='IE=Edge'/>
-    <title>1.1 [Bar Chart] basic</title>
+    <title>Grafik Penerimaan Mahasiswa Baru</title>
     <link rel='stylesheet' type='text/css' href='./dist/tui-chart.css'/>
     <link rel='stylesheet' type='text/css' href='https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.43.0/codemirror.css'/>
     <link rel='stylesheet' type='text/css' href='https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.43.0/addon/lint/lint.css'/>
